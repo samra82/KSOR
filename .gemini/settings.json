@@ -1,5 +1,11 @@
 {
   "context": {
     "fileName": ["AGENTS.md", "GEMINI.md"]
+  },
+  "mcpServers": {
+    "Neon": {
+      "type": "http",
+      "url": "https://mcp.neon.tech/mcp"
+    }
   }
 }

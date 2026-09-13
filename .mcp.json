@@ -1,13 +1,20 @@
 {
   "mcpServers": {
+    "agentfactory-system-of-record": {
+      "type": "http",
+      "url": "https://sor.panaversity.org/mcp",
+      "oauth": {
+        "clientId": "zia-tutor-ai",
+        "callbackPort": 3118
+      }
+    },
     "Neon": {
       "type": "http",
       "url": "https://mcp.neon.tech/mcp"
     },
-    "agentfactory-system-of-record": {
+    "handbook": {
       "type": "http",
-      "url": "https://sor.panaversity.org/mcp",
-      "oauth": { "clientId": "zia-tutor-ai", "callbackPort": 3118 }
+      "url": "http://127.0.0.1:8080/mcp"
     }
   }
 }
