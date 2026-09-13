@@ -5,7 +5,7 @@ project's people and AI agents operate from.
 
 Three things live here, and they are not the same kind of thing:
 
-- **`knowledge/` — the record.** Plain governed markdown (plus the optional
+- **`knowledge/` the record.** Plain governed markdown (plus the optional
   study attachments a document may carry). Yours forever, readable anywhere,
   portable without this repository's code.
 - **`system/` — the system.** The site, and later the services, that serve the
